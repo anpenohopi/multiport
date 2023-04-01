@@ -311,7 +311,7 @@ wget -O message-ssh "https://raw.githubusercontent.com/${GitUser}/multiport/main
 wget -O dns "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/dns.sh"
 wget -O nf "https://raw.githubusercontent.com/${GitUser}/multiport/main/system/nf.sh"
 wget -O addip "https://raw.githubusercontent.com/${GitUser}/multiport/main/menu/addip.sh"
-wget -O cert "https://raw.githubusercontent.com/${GitUser}/multiport/main/menu/cert.sh"
+wget -O cert "https://raw.githubusercontent.com/${GitUser}/multiport/main/cert.sh"
 chmod +x addip
 chmod +x add-host
 chmod +x menu
